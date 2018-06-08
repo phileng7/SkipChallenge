@@ -1,7 +1,7 @@
 # SkipChallenge
-This is a REST API that uses Spring Boot/Web/Security with JWT, H2, MySQL
+This is a REST API that uses Spring Boot/Web/Security with JWT, H2, MySQL<BR>
 
-After running the application the tables below will be created:
+After running the application the tables below will be created:<BR>
 CREATE TABLE `customer` (
   `id` int(11) NOT NULL,
   `email` varchar(45) DEFAULT NULL,
